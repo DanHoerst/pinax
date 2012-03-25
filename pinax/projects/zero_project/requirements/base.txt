@@ -11,6 +11,6 @@ Pinax
 
 django-debug-toolbar==0.9.1
 django-staticfiles==1.2.1
-django_compressor==1.1.2
+django-compressor==1.1.2
 
 pinax-theme-bootstrap==2.0.1
